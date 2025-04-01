@@ -1,0 +1,141 @@
+
+.log {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+.log h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.log p {
+  font-size: 16px;
+  color: #555;
+}
+
+.log p span {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.log p span:hover {
+  text-decoration: underline;
+}
+.log {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+.log h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.log p {
+  font-size: 16px;
+  color: #555;
+}
+
+.log p span {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.log p span:hover {
+  text-decoration: underline;
+}
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+
+h1 {
+  color: #333;
+}
+
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+.item {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+
+.item img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+
+.item p {
+  font-size: 18px;
+  color: #555;
+}
+
+
+.item p span {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.item p span:hover {
+  text-decoration: underline;
+}
+
+
+.ban-list {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+
+.ban-list h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+
+.ban-list p {
+  color: red;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.ban-list p:hover {
+  text-decoration: underline;
+}
